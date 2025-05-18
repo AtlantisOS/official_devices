@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AtlantisOS/official_devices/blob/15/banner/atlantis.png" />
+  <img src="https://github.com/AtlantisOS/official_devices/blob/15/atlantis.png" />
 </p>
 
 # Apply for maintainership
